@@ -1,1 +1,1 @@
-# Assignment31
+# Sample Application for AWS DevOps Course
